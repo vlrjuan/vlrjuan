@@ -2,7 +2,7 @@
 
 📖 Student at INSA Lyon
 
-My favorite languages :
+Languages I'm interesting in :
 - Java ☕
 - PHP 🐘
 
